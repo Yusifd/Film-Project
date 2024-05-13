@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    background-color: yellow;
+    height: 53px;
+    padding-top: 8px;
+}
+.header_favorites{
+    margin-top: 9px;
+    margin-left: 70px;
+}
+.header_search{
+    display: flex;
+    margin-top: 7px;
+    margin-left: 770px;
+}
